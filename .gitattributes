@@ -1,0 +1,12 @@
+Releases/Audiscope[[:space:]](Linux[[:space:]]ARM).zip filter=lfs diff=lfs merge=lfs -text
+Releases/Audiscope[[:space:]](Linux[[:space:]]x86).zip filter=lfs diff=lfs merge=lfs -text
+Releases/Audiscope[[:space:]](Mac[[:space:]]ARM).zip filter=lfs diff=lfs merge=lfs -text
+Releases/Audiscope[[:space:]](Mac[[:space:]]x86).zip filter=lfs diff=lfs merge=lfs -text
+Releases/Audiscope[[:space:]](Windows[[:space:]]ARM).zip filter=lfs diff=lfs merge=lfs -text
+Releases/Audiscope[[:space:]](Windows[[:space:]]x86).zip filter=lfs diff=lfs merge=lfs -text
+JRE/Linux[[:space:]]ARM.zip filter=lfs diff=lfs merge=lfs -text
+JRE/Linux[[:space:]]x86.zip filter=lfs diff=lfs merge=lfs -text
+JRE/Mac[[:space:]]ARM.zip filter=lfs diff=lfs merge=lfs -text
+JRE/Mac[[:space:]]x86.zip filter=lfs diff=lfs merge=lfs -text
+JRE/Windows[[:space:]]ARM.zip filter=lfs diff=lfs merge=lfs -text
+JRE/Windows[[:space:]]x86.zip filter=lfs diff=lfs merge=lfs -text

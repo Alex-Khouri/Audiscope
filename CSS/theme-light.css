@@ -1,0 +1,55 @@
+.root {
+	-fx-accent: #0084d4;
+	-fx-base: #e0e0e0;
+	-fx-control-inner-background: #eeeeee;
+	-fx-control-inner-background-alt: -fx-control-inner-background;
+	-fx-focus-color: -fx-accent;
+	-fx-font-family: Arial;
+	-fx-font-style: normal;
+	-fx-font-weight: normal;
+}
+
+.button {
+	-fx-text-fill: black;
+}
+	.button:hover {
+		-fx-text-fill: black;
+	}
+
+.check-box {
+	-fx-text-fill: black;
+}
+	.check-box:hover {
+		-fx-text-fill: black;
+	}
+	.check-box:selected .mark {
+		-fx-background-color: black;
+	}
+
+.combo-box .arrow {
+	-fx-background-color: black;
+}
+	.combo-box .combo-box-popup .list-view .list-cell:selected {
+		-fx-text-fill: white;			/* Selected item in dropdown */
+	}
+	.combo-box .list-cell {
+		-fx-text-fill: black;			/* Unselected item in dropdown */
+	}
+	.combo-box .list-cell:hover {	
+		-fx-text-fill: white;			/* Hovered item in dropdown */
+	}
+	.combo-box .list-cell:selected {
+		-fx-text-fill: black;			/* Selected item in field */
+	}
+
+.label {
+	-fx-text-fill: black;
+}
+
+.text-field {
+	-fx-text-fill: black;
+}
+
+.text-input {
+	-fx-text-fill: black;
+}

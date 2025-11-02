@@ -1,0 +1,1 @@
+rsync -e ssh "./JRE/Linux ARM.zip" "./JRE/Linux x86.zip" "./JRE/Mac ARM.zip" "./JRE/Mac x86.zip" "./JRE/Windows ARM.zip" "./JRE/Windows x86.zip" alex-khouri@frs.sourceforge.net:/home/frs/project/audiscope/JRE

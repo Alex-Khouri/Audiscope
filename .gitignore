@@ -1,0 +1,17 @@
+# Ignore extracted JRE folders that are used to run the application in the development environment
+/JRE/Linux ARM
+/JRE/Linux x86
+/JRE/Mac ARM
+/JRE/Mac x86
+/JRE/Windows ARM
+/JRE/Windows x86
+
+# Ignore scripts that are kept in the home directory for building/running the application in the development environment
+/*.bat
+/*.command
+/*.sh
+
+# Ignore source files that aren't stored in their designated subdirectories
+/*.css
+/*.jar
+/*.java

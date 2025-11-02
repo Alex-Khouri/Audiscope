@@ -1,0 +1,1 @@
+rsync -e ssh "./readme.txt" alex-khouri@frs.sourceforge.net:/home/frs/project/audiscope
