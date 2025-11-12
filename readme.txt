@@ -22,7 +22,7 @@ CPU: Quad Core @ 2.5GHz
 RAM: 16GB
 
 NB: This application's peak memory consumption is determined by the size of the audio files that are being processed, and can be estimated using the following formula:
-Memory Consumed = 1GB + 2x (where 'x' is the size of audio file being processed)
+Memory Consumed = 1GB + 2x (where 'x' is the size of audio file being processed in GB)
 ========================================
 ***** (2) Application Usage Guide *****
 
