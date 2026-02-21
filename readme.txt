@@ -78,7 +78,7 @@ Audiscope
 ------- Mac-x86.zip
 ------- Windows-ARM.zip
 ------- Windowx x86.zip
---- Releases
+--- Release
 --- Scripts
 ------- Build
 ----------- Linux
@@ -102,7 +102,7 @@ Audiscope
     * The corresponding build script for your system (e.g. "build_linux.sh")
     * The "readme.txt" file
 
-6) Run the build script (the generated application versions will be found inside the 'Releases' folder).
+6) Run the build script (the generated application versions will be found inside the 'Release' folder).
 ========================================
 ***** (6) Managing the Bundled Java Runtime Environment *****
 

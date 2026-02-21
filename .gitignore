@@ -6,6 +6,9 @@
 /JRE/Windows-ARM
 /JRE/Windows-x86
 
+# Ignore release folder (as release uploads should be managed separately)
+/Release
+
 # Ignore scripts that are kept in the home directory for building/running the application in the development environment
 /*.bat
 /*.command
